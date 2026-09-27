@@ -10,8 +10,6 @@ Building data pipelines, analytics systems, backend services, and AI-powered app
 &nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/harsh-workspace">LinkedIn</a>
 &nbsp;•&nbsp;
-<a href="mailto:harshmishra4037@gmail.com">Email</a>
-
 </div>
 
 ---
@@ -114,14 +112,21 @@ Python · scikit-learn · Sentence-Transformers · SQLite · Flask
 ### Data Engineering
 
 <p>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" height="42" alt="Python">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="42" alt="Microsoft SQL Server">
-  <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" height="42" alt="PostgreSQL">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL">
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="42" alt="SQLite">
-  <img src="https://cdn.simpleicons.org/duckdb/FFF000" height="42" alt="DuckDB">
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="42" alt="dbt">
-  <img src="https://cdn.simpleicons.org/dagster/7B42BC" height="42" alt="Dagster">
+  <a href="https://www.python.org/"><img src="https://www.svgrepo.com/show/452091/python.svg" height="42" alt="Python"></a>
+  &nbsp;
+  <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="42" alt="Microsoft SQL Server"></a>
+  &nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" height="42" alt="PostgreSQL"></a>
+  &nbsp;
+  <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="MySQL"></a>
+  &nbsp;
+  <a href="https://www.sqlite.org/"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="42" alt="SQLite"></a>
+  &nbsp;
+  <a href="https://duckdb.org/"><img src="https://cdn.simpleicons.org/duckdb/FFF000" height="42" alt="DuckDB"></a>
+  &nbsp;
+  <a href="https://www.getdbt.com/"><img src="https://cdn.simpleicons.org/dbt/FF694B" height="42" alt="dbt"></a>
+  &nbsp;
+  <a href="https://dagster.io/"><img src="https://cdn.simpleicons.org/dagster/7B42BC" height="42" alt="Dagster"></a>
 </p>
 
 **Python · SQL · SQL Server · PostgreSQL · MySQL · SQLite · DuckDB · dbt · Dagster · ETL/ELT · Data Modeling · APIs · OLAP · Analytics Engineering**
@@ -129,13 +134,19 @@ Python · scikit-learn · Sentence-Transformers · SQLite · Flask
 ### Backend & Infrastructure
 
 <p>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker">
-  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git">
-  <img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub">
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI">
-  <img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask">
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit">
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="42" alt="Google Cloud">
+  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker"></a>
+  &nbsp;
+  <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git"></a>
+  &nbsp;
+  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" height="42" alt="GitHub"></a>
+  &nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI"></a>
+  &nbsp;
+  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.simpleicons.org/flask/000000" height="42" alt="Flask"></a>
+  &nbsp;
+  <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="42" alt="Streamlit"></a>
+  &nbsp;
+  <a href="https://cloud.google.com/"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="42" alt="Google Cloud"></a>
 </p>
 
 **Docker · Git · GitHub · FastAPI · Flask · SQLAlchemy · Pydantic · Streamlit · Google Cloud · REST APIs · Deployment**
@@ -143,11 +154,15 @@ Python · scikit-learn · Sentence-Transformers · SQLite · Flask
 ### AI / ML / Automation
 
 <p>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="scikit-learn">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42" alt="n8n">
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="42" alt="Gemini">
-  <img src="https://cdn.simpleicons.org/rasa/5B1F7D" height="42" alt="Rasa">
+  <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="scikit-learn"></a>
+  &nbsp;
+  <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch"></a>
+  &nbsp;
+  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42" alt="n8n"></a>
+  &nbsp;
+  <a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="42" alt="Gemini"></a>
+  &nbsp;
+  <a href="https://rasa.com/"><img src="https://cdn.simpleicons.org/rasa/5B1F7D" height="42" alt="Rasa"></a>
 </p>
 
 **LLM Integration · Gemini · n8n · Prompt Engineering · Computer Vision · NLP · Embeddings · scikit-learn · Rasa · Multimodal AI**
