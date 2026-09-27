@@ -165,40 +165,22 @@ Python · scikit-learn · Sentence-Transformers · SQLite · Flask
 
 ---
 
-## What I Like Building
-
-~~~text
- APIs / Files / Events / Application Data
-                    │
-                    ▼
-              Data Ingestion
-                    │
-                    ▼
-          Validation & Transformation
-                    │
-                    ▼
-               Data Storage
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-         Analytics        APIs
-             │             │
-             └──────┬──────┘
-                    ▼
-             Dashboards / AI
-~~~
-
-The recurring pattern across my work is:
-
-**Raw data → reliable data → useful system**
-
----
-
 ## Automation & AI Work
 
-I also build practical automation systems using **n8n, Make, Zapier, Gmail, Telegram, WordPress, Google Search Console, LLM APIs, and document-processing workflows**.
+### Production AI & Automation
 
-Examples include AI receptionist workflows, Gmail assistants, document extraction pipelines, CMS automation, search-console agents, and automated data-processing flows.
+- **Healthcare AI receptionist:** Delivered a production voice agent that handled **500+ patient calls**, contributed to a **24% increase in patient retention**, and was subsequently resold to multiple international clinics.
+- **End-to-end client ownership:** Independently ran requirements-discovery conversations with B2B clients, translated business problems into scoped technical solutions, and designed, built, and shipped the resulting automations.
+- **Voice & meeting intelligence:** Built call-transcript analytics and Zoom recording summarization pipelines that converted unstructured conversations into structured data for reporting dashboards.
+- **Research & SEO automation:** Built keyword-tracking workflows across **SerpAPI, DataForSEO, and Semrush**, automated spreadsheet reporting, and developed a **Google Search Console performance analysis agent**.
+- **Developer workflow automation:** Built an AI agent that generates technical documentation directly from exported automation workflows.
+- **Marketing operations:** Built a Reddit content workflow with **human-in-the-loop approval** before publication.
+- **Infrastructure ownership:** Became the sole dedicated owner of the company's **n8n infrastructure, domains, and internal automation tooling**, establishing ownership where none previously existed.
+- **Delivery under pressure:** Earned the role by delivering a live client project within a **1-week deadline** as the final stage of the interview process.
+
+**Stack**
+
+Python · n8n · REST APIs · LLM-based AI agents · SQL · Google Cloud Storage · Google Search Console API · GitHub Actions · Webhooks · Workflow Automation
 
 ---
 
